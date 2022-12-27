@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tango</string>
+    <string name="jersey_number">Jersey Number: %d</string>
+    <string name="back">Back</string>
+    <string name="team_country">Argentina</string>
+    <string name="football_team">National Football Team</string>
+    <string name="team_detail">The Argentina national football team (Spanish: Selección de fútbol de Argentina) represents Argentina in mens international football and is administered by the Argentine Football Association, the governing body for football in Argentina.</string>
+    <string name="my_name">Setianing Budi</string>
+    <string name="email">setianingbudi2@gmail.com</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_team">Team</string>
+    <string name="menu_profile">Profile</string>
+    <string name="player_born">Born:</string>
+    <string name="player_team">Current Teams:</string>
+
+</resources>
